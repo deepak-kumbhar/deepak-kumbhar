@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **Code doesn't lie but comments do**
 
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angularjs" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="amazonwebservices" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="20" height="20"/> 
@@ -21,7 +21,6 @@
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="20" height="20"/> 
   <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="mysql" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/50/000000/postgreesql.png" alt="postgresql" width="20" height="20"/>
-  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure" width="20" height="20"/>
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure" width="20" height="20"/>
   <img src="https://img.icons8.com/material-outlined/24/000000/compare-git.png" alt="git" width="20" height="20"/>
   <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="jenkins" width="20" height="20"/>
