@@ -29,7 +29,7 @@
 <a href="https://fb.com/d12kumbhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="d12kumbhar" height="30" width="40" /></a>
 <a href="https://instagram.com/mr._brown._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr._brown._" height="30" width="40" /></a>
 <a href="https://medium.com/@deepak.kumbhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@deepak.kumbhar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucuplztiugxahnlcfvyuj_kq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucuplztiugxahnlcfvyuj_kq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCuPlZTiuGXAhnlcfvYuJ_kQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucuplztiugxahnlcfvyuj_kq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
