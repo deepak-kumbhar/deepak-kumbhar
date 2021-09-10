@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak-kumbhar" alt="deepak-kumbhar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/me_mr_brown_" target="blank"><img src="https://img.shields.io/twitter/follow/me_mr_brown_?logo=twitter&style=for-the-badge" alt="me_mr_brown_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/deepakkumbhar46" target="blank"><img src="https://img.shields.io/twitter/follow/deepakkumbhar46?logo=twitter&style=for-the-badge" alt="deepakkumbhar46" /></a> </p>
 
 - 🔭 I’m currently working on [Codegrip](https://www.codegrip.tech/), [TurtlHealth](https://www.turtlehealth.co/)
 
